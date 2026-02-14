@@ -1,0 +1,16 @@
+# AI Network Troubleshooting Agent Requirements
+
+# Core dependencies
+openai>=1.0.0
+langchain>=0.1.0
+langchain-openai>=0.0.2
+
+# Environment management
+python-dotenv>=1.0.0
+
+# Data processing
+requests>=2.31.0
+
+# Optional: For advanced features
+# pinecone-client>=2.2.0
+# chromadb>=0.4.0
