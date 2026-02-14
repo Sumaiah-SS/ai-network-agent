@@ -75,10 +75,4 @@ Validator: Route verified, DNS optimal, issue is ISP-side
 Reporter: Root cause - ISP routing issue, recommended escalation
 ```
 
-## 🤝 Contributing
 
-This is a learning project demonstrating agentic AI concepts. Feel free to fork and experiment!
-
-## 📄 License
-
-MIT License
